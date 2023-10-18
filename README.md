@@ -4,7 +4,7 @@ For this project, I created a website that pulls data from an API containing sec
 The site will have them hidden behind cards and once the user hovers over the card, the secret will be displayed
 on the screen. Below the card will be the username of the user.
 
-In order to run this site, you must clone it on your machine using this:
+In order to run this site, you must clone it on your machine using this command: \n
 git clone https://github.com/bzemedku98/Secrets.git
 
 //Make sure to have node installed before proceeding further.
